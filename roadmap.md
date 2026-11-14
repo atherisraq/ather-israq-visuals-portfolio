@@ -1,0 +1,4 @@
+- [x] Adjust mobile hero to put the name above a centered portrait and prevent desktop overlap.
+- [x] Remove Nomoskar and update the supplied video, album, and social links.
+- [x] Replace the placeholder CV with the uploaded PDF and verify download.
+- [x] Verify desktop and mobile, then deliver a clean website source ZIP.
