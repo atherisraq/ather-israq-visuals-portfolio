@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
 import { ArrowUpRight, Send } from "lucide-react";
-import portrait from "@/assets/portrait-ather.png.asset.json";
+import portrait from "@/assets/portrait-ather.png";
 import { TopNav } from "@/components/SiteNav";
 import { Reveal } from "@/components/Reveal";
 import { SOCIALS } from "@/lib/site-data";
